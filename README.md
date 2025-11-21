@@ -31,6 +31,8 @@ Bu projeyi çalıştırmak için herhangi bir sunucu kurulumuna veya paket yöne
 
 
 🔮 Gelecek Planları (To-Do)
+
+
 [ ] Eklenen kelimeleri silme butonu eklenmesi.
 
 [ ] Kelimeler arasında arama yapma özelliği.
