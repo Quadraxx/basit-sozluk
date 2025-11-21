@@ -27,6 +27,9 @@ Bu projeyi çalıştırmak için herhangi bir sunucu kurulumuna veya paket yöne
 2.  Klasörün içindeki `index.html` dosyasına çift tıklayın.
 3.  Uygulama varsayılan tarayıcınızda açılacaktır.
 4.  Kelime ve anlam kutucuklarını doldurup **"Ekle"** butonuna basarak test etmeye başlayın!
+
+
+
 🔮 Gelecek Planları (To-Do)
 [ ] Eklenen kelimeleri silme butonu eklenmesi.
 
